@@ -18,7 +18,7 @@ Possuo experiência com **suporte técnico, análise de sistemas e desenvolvimen
 
 ### 🧠 Linguagens & Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,vue,html,css,java,mysql,oracle,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,mysql,oracle,git,github" />
 </p>
 
 ---
