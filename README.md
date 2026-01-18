@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 👨‍💻 Rodrigo dos Reis Soares
 
 Sou estudante de **Engenharia de Software**, formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e em constante evolução profissional.
@@ -37,4 +37,4 @@ Possuo experiência com **suporte técnico, análise de sistemas e desenvolvimen
 ---
 
 ⭐ Sempre aberto a novos desafios, aprendizado contínuo e oportunidades na área de tecnologia.
--->
+
