@@ -3,53 +3,38 @@
 <!--
 # 👨‍💻 Rodrigo dos Reis Soares
 
-🎯 **Engenheiro de Software em formação | Analista de Sistemas | Suporte Técnico**
+Sou estudante de **Engenharia de Software**, formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e em constante evolução profissional.
 
-Sou um profissional da área de Tecnologia da Informação, com formação em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Engenharia de Software** pela UNINTER. Possuo experiência em **suporte técnico**, **análise de sistemas** e **desenvolvimento de software**, sempre buscando soluções eficientes, organização e aprendizado contínuo.
-
----
-
-## 🧠 Diferenciais
-
-- ✅ Proatividade e organização  
-- 🤝 Excelente trabalho em equipe e comunicação  
-- 🛠️ Experiência prática em suporte técnico, análise de sistemas e desenvolvimento  
+Possuo experiência com **suporte técnico, análise de sistemas e desenvolvimento web**, com foco atual em me tornar um **Desenvolvedor Full Stack**, criando soluções eficientes, responsivas e bem estruturadas.
 
 ---
 
-## 🛠️ Habilidades Técnicas
-
-### 💻 Linguagens
-- JavaScript  
-- Node.js  
-- Vue.js  
-- Java  
-- HTML5 & CSS3  
-
-### 🗄️ Banco de Dados
-- MySQL  
-- Oracle  
-- SQL  
-
-### 🔧 Ferramentas
-- Git & GitHub  
-- MySQL Workbench  
-- Excel  
-
-### 📊 Outros Conhecimentos
-- Testes de Software (QA)  
-- Análise de Sistemas  
-- Suporte Técnico  
-
----
-
-## 🌐 Contato
-
-- 📧 Email: **rdrs1995@gmail.com**  
+### 📫 Como me encontrar
+- 📧 Email: rdrs1995@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/rodrigo-soares-reis](https://www.linkedin.com/in/rodrigo-soares-reis/)  
 - 🌐 Portfólio: [rdrs1995.github.io/portifolio](https://rdrs1995.github.io/portifolio/)
 
 ---
 
-⭐ *Sinta-se à vontade para explorar meus repositórios e projetos!*
+### 🧠 Linguagens & Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,vue,html,css,java,mysql,oracle,git,github" />
+</p>
+
+---
+
+### 📚 Atualmente estudando
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,typescript" />
+</p>
+
+---
+
+### 🎓 Formação Acadêmica
+- **Engenharia de Software** – UNINTER (Cursando)  
+- **Análise e Desenvolvimento de Sistemas** – UNINTER (Concluído)
+
+---
+
+⭐ Sempre aberto a novos desafios, aprendizado contínuo e oportunidades na área de tecnologia.
 -->
